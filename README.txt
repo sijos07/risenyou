@@ -10,12 +10,13 @@ Files:
 
 CONTACT DETAILS
 ---------------
-The site currently uses the placeholder:
-+91 99999 99999
-WhatsApp: 919999999999
+The site currently uses:
++91 95672 73326
+WhatsApp: 919567273326
 
-Replace all occurrences of 9999999999 in index.html with the real WhatsApp number.
-Also replace the displayed phone number and hello@risenyou.co.in if required.
+If this number ever changes, update all occurrences of 919567273326 / 95672 73326
+in index.html (WhatsApp links, tel: link, and footer).
+Also update hello@risenyou.co.in if that changes.
 
 AWS HOSTING
 -----------
